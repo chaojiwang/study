@@ -1,4 +1,4 @@
-__author__ = '陈磊'
+
 import random
 secret = random.randint(1,99)
 guess = 0
